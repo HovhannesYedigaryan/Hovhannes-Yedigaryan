@@ -1,10 +1,11 @@
-public class problem01 {
+public class problem02 {
     public static void main(String[] args) {
         int i = 0;
-        while (i < 5) {
-            System.out.println("A");
+        while (i < 3) {
+            System.out.println("Curent number is" + i);
             i = i + 1;
         }
         System.out.println("Done");
     }
 }
+
